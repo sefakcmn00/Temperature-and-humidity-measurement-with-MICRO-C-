@@ -1,6 +1,11 @@
 
-Merhaba aşağıya linki bırakıyorum çalışma mantığını anlama açısından.
+Merhaba arkadaşlar çalışma mantığını anlatan bir video hazırladım umarım yardımcı olur.
 
+Link:
+
+https://drive.google.com/file/d/1Cc75xiDohCT0JW-VONpnFK5bOsAcrheE/view?usp=sharing
+
+Verilerin Kaydedilmesini sağlan Sd Kart Hafıza Birimi indirip proteus şemasında sd kartın içine eklemek zorundasınız boyutu yüksek olduğundan drive yükledim.
 Link:
 
 https://drive.google.com/file/d/1Apd8gCH8YXsi7vp5fjL8VJsVL5Rc77Pp/view
