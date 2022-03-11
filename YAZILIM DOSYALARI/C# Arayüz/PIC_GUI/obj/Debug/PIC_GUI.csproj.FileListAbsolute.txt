@@ -1,0 +1,38 @@
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\bin\Debug\PIC_GUI.exe.config
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\bin\Debug\PIC_GUI.exe
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\bin\Debug\PIC_GUI.pdb
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\obj\Debug\PIC_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\obj\Debug\PIC_GUI.Form1.resources
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\obj\Debug\PIC_GUI.Properties.Resources.resources
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\obj\Debug\PIC_GUI.csproj.GenerateResource.Cache
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\obj\Debug\PIC_GUI.exe
+C:\Users\Student Companion\Documents\tutorials\GUI\PIC_GUI\PIC_GUI\obj\Debug\PIC_GUI.pdb
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\bin\Debug\PIC_GUI.exe.config
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\bin\Debug\PIC_GUI.exe
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\bin\Debug\PIC_GUI.pdb
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.Form1.resources
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.exe
+C:\Users\Yusuf\Desktop\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.pdb
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\bin\Debug\PIC_GUI.exe.config
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\bin\Debug\PIC_GUI.exe
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\bin\Debug\PIC_GUI.pdb
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.csprojAssemblyReference.cache
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.Form1.resources
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.Properties.Resources.resources
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.csproj.GenerateResource.cache
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.csproj.CoreCompileInputs.cache
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.exe
+D:\Yusuf\Projeler\Mikroişlemci ÖDEVİ\Mikroişlemci Projem\uart\PIC_GUI_C#_Project\PIC_GUI\obj\Debug\PIC_GUI.pdb
+C:\Users\Yusuf\Desktop\Sefa\PIC_GUI\obj\Debug\PIC_GUI.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Sefa\PIC_GUI\obj\Debug\PIC_GUI.exe
+C:\Users\Yusuf\Desktop\Sefa\PIC_GUI\obj\Debug\PIC_GUI.pdb
+C:\Users\ASUS\Desktop\Yeni klasör\Sefa\PIC_GUI\obj\Debug\PIC_GUI.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni klasör\Sefa\PIC_GUI\obj\Debug\PIC_GUI.exe
+C:\Users\ASUS\Desktop\Yeni klasör\Sefa\PIC_GUI\obj\Debug\PIC_GUI.pdb
+C:\Users\ASUS\Desktop\SEFA\Yeni klasör\Sefa\PIC_GUI\obj\Debug\PIC_GUI.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\SEFA\Yeni klasör\Sefa\PIC_GUI\obj\Debug\PIC_GUI.exe
+C:\Users\ASUS\Desktop\SEFA\Yeni klasör\Sefa\PIC_GUI\obj\Debug\PIC_GUI.pdb
