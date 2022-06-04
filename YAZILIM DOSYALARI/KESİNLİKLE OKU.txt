@@ -5,7 +5,7 @@ Link:
 
 https://drive.google.com/file/d/1Cc75xiDohCT0JW-VONpnFK5bOsAcrheE/view?usp=sharing
 
-Verilerin Kaydedilmesini sağlayann Sd Kart Hafıza Birimi indirip proteus şemasında sd kartın içine eklemek zorundasınız boyutu yüksek olduğundan drive yükledim.
+Verilerin Kaydedilmesini sağlayan Sd Kart Hafıza Birimi indirip proteus şemasında sd kartın içine eklemek zorundasınız boyutu yüksek olduğundan drive yükledim.
 Link:
 
 https://drive.google.com/file/d/1Apd8gCH8YXsi7vp5fjL8VJsVL5Rc77Pp/view
